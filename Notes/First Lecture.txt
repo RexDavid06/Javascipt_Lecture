@@ -1,0 +1,30 @@
+we declare a variable in javascript using the "let" keyword
+    "let num = 5"
+
+you don't have to declare a variable multiple times 
+     "let num = 5"
+     after this you can now say 
+      "num = 10"
+
+when naming a variable, the only special symbols allowed are 
+    " $ and _"
+    and you don't start a variable name with a number
+
+There are two types of naming rules.
+    camel sasing rule = "userName"
+    snake sasing rule = "user_name"
+
+In declaring variables in javascript, there variables that are not to be changed and there are those that will be modified
+    "const num = 90" this variable can not be changed
+    "let num = 90" now this one is changedable
+
+****************************************************************************************
+DATA TYPES
+
+Data types are in two types
+    Primitive -> number, string, boolean, null, undefined, symbol
+    Object -> 
+
+How to know variable types 
+    num = 90
+    console.log(typeof num)

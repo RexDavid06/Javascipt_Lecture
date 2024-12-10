@@ -12,3 +12,9 @@ console.log(pi)
 num = 200
 console.log(typeof num)
 
+let firsName = 'Rex-David'
+let lastName = "Buchi"
+let user = firsName + " " + lastName 
+console.log(user)
+
+
